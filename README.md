@@ -67,6 +67,5 @@ This is really exciting. These MUSE Embeddings have been made available by Faceb
 
 
 
-or in this repository as the "Cross_Lingual_Embedding_Report.pdf" file.
 
 
